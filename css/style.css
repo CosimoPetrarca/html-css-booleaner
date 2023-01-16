@@ -17,16 +17,21 @@ body{
 }
 
 #titolo-articolo{
-    font-size: 30px;
+    font-size: 50px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
 
 .colore-scrittura{
     color: darkgrey;
+    margin: 5px;
 
 }
 
 #colore-autore{
     color: #4ea0ff ;
+}
+
+h6{
+    margin: 5px;
 }
