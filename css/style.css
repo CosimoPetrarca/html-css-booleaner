@@ -13,7 +13,8 @@ body{
 
 #logo-booleaner{
     width: 200px;
-    height: 100px;    
+    height: 100px;  
+    padding-top: 40px;
 }
 
 #titolo-articolo{
@@ -44,8 +45,36 @@ h6{
     color: white;
     background-color: rgb(0, 132, 255);
     text-align: left;
+    
 }
 
 .riga{
     background-color: rgb(149, 204, 255) ;
+    
+}
+
+#tabella{
+    width: 100%;
+    height: auto;
+    table-layout: auto;
+    
+}
+
+.footer-section {
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    background-position: center;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+
+#graph {
+    background-image: url('../img/graph.jpg')
 }
