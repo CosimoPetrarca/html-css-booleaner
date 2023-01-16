@@ -35,3 +35,17 @@ body{
 h6{
     margin: 5px;
 }
+
+.sottolineatura{
+    background-color: yellow;
+}
+
+#intestazione-tabella{
+    color: white;
+    background-color: rgb(0, 132, 255);
+    text-align: left;
+}
+
+.riga{
+    background-color: rgb(149, 204, 255) ;
+}
